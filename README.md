@@ -6,3 +6,5 @@ Team Arthur Samuel-Hilaire, Ying Fan and Yu Ying Li Wen
 //Could you guys type something then Commit in this file so we know who's on Git or not - thanks :) 
 
 //Arthur is here
+
+//Ying is here
